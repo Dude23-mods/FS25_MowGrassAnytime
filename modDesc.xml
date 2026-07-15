@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="110">
+    <author>Dude23</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>Mow Grass Anytime</en>
+        <de>Gras jederzeit mähen</de>
+        <fr>Tondre l'herbe à tout moment</fr>
+    </title>
+    <description>
+        <en><![CDATA[Allows crop grass and meadow grass to be mowed from the first visible growth stage. The three visible growth stages yield 25%, 50%, and 100%. Harvested and rolled grass states remain unaffected.]]></en>
+        <de><![CDATA[Ermöglicht das Mähen von Ackergras und Wiesengras bereits ab der ersten sichtbaren Wachstumsstufe. Die drei sichtbaren Wachstumsstufen liefern 25 %, 50 % und 100 % Ertrag. Gemähte und gewalzte Graszustände bleiben unverändert.]]></de>
+        <fr><![CDATA[Permet de faucher l'herbe cultivée et l'herbe des prés dès le premier stade de croissance visible. Les trois stades de croissance visibles produisent 25 %, 50 % et 100 % du rendement. Les états déjà fauchés ou roulés restent inchangés.]]></fr>
+    </description>
+    <iconFilename>icon_mowGrassAnytime.dds</iconFilename>
+    <multiplayer supported="true"/>
+    <extraSourceFiles>
+        <sourceFile filename="scripts/MowGrassAnytime.lua"/>
+    </extraSourceFiles>
+</modDesc>
